@@ -1,4 +1,1 @@
-Design
-======
 
-Learning Photoshop
