@@ -10,3 +10,5 @@
 - http://www.google.com/design/spec/patterns/errors.html
 
 - https://icons8.com/
+
+. http://webdesign.tutsplus.com/categories/sketch
