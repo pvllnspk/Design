@@ -13,4 +13,6 @@
 
 . http://webdesign.tutsplus.com/categories/sketch
 
-https://unsplash.com/
+- https://unsplash.com/
+
+- http://www.flaticon.com
